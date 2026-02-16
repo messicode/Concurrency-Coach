@@ -73,7 +73,7 @@ Properties:
 - Capacity safety
 - Status monotonicity
 - Transfer atomicity
-- Lock-freedom (Assignment 5)
+- Lock-freedom(only in the 5th part)
 
 ---
 
