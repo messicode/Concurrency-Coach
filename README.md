@@ -36,10 +36,10 @@ Each stage strengthens concurrency guarantees and scalability.
 
 | Project | Name | Core Focus | Blocking | Progress Guarantee |
 |----------|------|------------|----------|-------------------|
-| 1 | Atomic Depot | Thread-safe atomic operations | Yes | Thread-safe |
+| 1 | Thread Safety | Thread-safe atomic operations | Yes | Thread-safe |
 | 2 | Reentrant Lock Engine | Custom reentrant mutual exclusion | Yes | Deadlock-free |
-| 3 | Scalable Depot | Fine-grained locking & linearizability | Yes | Parallel progress |
-| 4 | Async Depot Executor | Asynchronous ordered execution | Non-blocking API | Parallel async progress |
+| 3 | Synchronize and scale | Fine-grained locking & linearizability | Yes | Parallel progress |
+| 4 | Asynchronous and ordering | Asynchronous ordered execution | Non-blocking API | Parallel async progress |
 | 5 | Lock-Free Depot | Universal construction | No | Lock-free |
 
 ---
