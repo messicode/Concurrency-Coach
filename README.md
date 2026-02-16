@@ -1,3 +1,5 @@
+> A progressive exploration of concurrency design: from mutual exclusion to lock-free systems.
+
 # Concurrency Coach  
 
 A five-stage concurrency engineering project that incrementally builds a correct, scalable, and finally non-blocking ticket management system.
