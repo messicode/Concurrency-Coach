@@ -1,5 +1,4 @@
 # Concurrency Coach  
-## From Mutual Exclusion to Lock-Free Systems in Java
 
 A five-stage concurrency engineering project that incrementally builds a correct, scalable, and finally non-blocking ticket management system.
 
